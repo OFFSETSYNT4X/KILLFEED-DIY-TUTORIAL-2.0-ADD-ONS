@@ -18,7 +18,7 @@ along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 Copy ac.js file to project commands directory.
 Open a terminal and install "concat-stream" dependency (npm i concat-stream).
-Register new commands commands (npm register.js).
+Register new commands (npm register.js).
 
 Requiurements:
 Windows PC/Laptop,
