@@ -16,16 +16,18 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-Copy ac.js file to project commands directory.
-Open a terminal and install "concat-stream" dependency (npm i concat-stream).
-Register new commands (npm register.js).
-
 Requiurements:
 Windows PC/Laptop,
 Nitrado Console DayZ Gamer Server,
 Discord,
 NVM-for-Windows,
 Visual Studio Code.
+
+Access Controls:
+
+Copy ac.js file to project commands directory.
+Open a terminal and install "concat-stream" dependency (npm i concat-stream).
+Register new commands (npm register.js).
 
 Commands:
 /ac whitelist       (Add or Remove GamerTag to Whitelist)
